@@ -13,7 +13,7 @@ To get started with Subgrounds, you'll need to:
 
 
 - Install Subgrounds by running `pip install subgrounds`.
-- Ensure you have Python 3.10 or above installed.
+- Ensure you have `Python 3.10` or above installed.
 - Open the examples in your preferred notebook environment, such as Jupyter Notebook or Hex.
 
 That's it! We hope you find these examples and tutorials helpful in your work with Subgraphs.
